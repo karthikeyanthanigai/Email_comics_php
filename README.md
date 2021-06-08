@@ -24,7 +24,7 @@ git clone https://github.com/karthikeyanthanigai/Email_comics_php.git
 5.Now go to the 000webhost home page under tools select Database manager inside that create a database by given database name,database username,password and then after creating the database select manage->phpmyadmin. <br /> 
 6.at phpmyadmin select the created database and export the usertable.sql file inside the cloned project. <br /> 
 7.change the database details in home.php and connection.php. <br /> 
-8.run the hosted project by <your-domain-name>/login-user.php. <br /> 
+8.run the hosted project by < your-domain-name >/login-user.php. <br /> 
 9.if this below error occurs just click the link and change your browser security. <br /> 
  ![](https://www.2-spyware.com/news/wp-content/uploads/virusai/deceptive-site-ahead_en-400x267.jpg)
 
